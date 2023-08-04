@@ -26,7 +26,7 @@ set number
 set relativenumber
 set scrolloff=7
 set secure
-set shiftwidth
+set shiftwidth=2
 set showmatch
 set showtabline=2
 set smartcase
